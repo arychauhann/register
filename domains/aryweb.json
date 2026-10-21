@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "arychauhann",
+    "email": "arychauhannn@gmail.com"
+  },
+  "domain": "aryweb",
+  "subdomain": "",
+  "record": {
+    "CNAME": "aryweb.up.railway.app"
+  },
+  "proxied": false
+}
